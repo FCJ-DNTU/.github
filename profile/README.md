@@ -5,5 +5,3 @@ Xin chào các bạn, đây là organization tổng hợp những projects works
 Ngoài Github Organization này ra thì tụi mình còn có một Org khác nữa:
 
 - Code4life: https://github.com/Code4life-Labs
-
-Note: tụi mình cũng rất welcome với các bạn trường ngoài !!
